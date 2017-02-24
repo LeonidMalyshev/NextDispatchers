@@ -1,0 +1,17 @@
+D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\MultiGui\MultiGui\bin\Debug\MultiGui.exe.config
+D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\MultiGui\MultiGui\bin\Debug\MultiGui.exe
+D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\MultiGui\MultiGui\bin\Debug\MultiGui.pdb
+D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\MultiGui\MultiGui\obj\Debug\MainWindow.baml
+D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\MultiGui\MultiGui\obj\Debug\MainWindow.g.cs
+D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\MultiGui\MultiGui\obj\Debug\App.g.cs
+D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\MultiGui\MultiGui\obj\Debug\MultiGui_MarkupCompile.cache
+D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\MultiGui\MultiGui\obj\Debug\MultiGui.g.resources
+D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\MultiGui\MultiGui\obj\Debug\MultiGui.Properties.Resources.resources
+D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\MultiGui\MultiGui\obj\Debug\MultiGui.csproj.GenerateResource.Cache
+D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\MultiGui\MultiGui\obj\Debug\MultiGui.exe
+D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\MultiGui\MultiGui\obj\Debug\MultiGui.pdb
+D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\MultiGui\MultiGui\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\MultiGui\MultiGui\obj\Debug\MultiGui_MarkupCompile.lref
+D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\MultiGui\MultiGui\obj\Debug\MyControl.baml
+D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\MultiGui\MultiGui\obj\Debug\MyControl.g.cs
+D:\Users\STREAMSTAR\Documents\Visual Studio 2015\Projects\tmp\MultiGui\MultiGui\obj\Debug\MultiGui.csprojResolveAssemblyReference.cache
